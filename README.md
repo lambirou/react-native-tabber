@@ -1,6 +1,8 @@
 # Ract Native Tabber
 
-Example of tab navigator customization.
+There is an example how to use the react-native-multibar.
+
+Example of tab navigator customization: [Tabber Expo](https://github.com/alex-melnyk/tabber-expo) or [Tabber RN](https://github.com/alex-melnyk/Tabber)
 
 | Preview 01 | Preview 01 |
 | --- | --- |
